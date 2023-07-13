@@ -20,8 +20,8 @@ A landing page apresenta um design limpo e moderno, com seções distintas para 
 
 ## Uso 🚀
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/landing-page-imersiva.git`
-2. Navegue até o diretório do projeto: `cd landing-page-imersiva`
+1. Clone o repositório: `git clone https://github.com/develany/imersaolayout.git`
+2. Navegue até o diretório do projeto: `cd imersaolayout`
 3. Abra o arquivo `index.html` no seu navegador de preferência.
 4. Explore a landing page e observe a estrutura e os estilos utilizados.
 5. Personalize o conteúdo e os estilos de acordo com as suas necessidades.
