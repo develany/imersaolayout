@@ -1,4 +1,4 @@
-# Landing Page Imersiva ✨
+# Landing Page ✨
 
 Este projeto é uma landing page simples criada durante uma aula de imersão. Ele serve como um exemplo básico de como construir uma página inicial atraente utilizando apenas `HTML` e `CSS`.
 
